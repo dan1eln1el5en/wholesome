@@ -1,0 +1,28 @@
+{
+    "mainMenu": [
+        {
+            "title": "Welcome",
+            "category": "beginner",
+            "color": "#A2CDCF",
+            "status": "unlocked"
+        },
+        {
+            "title": "First aid kit",
+            "category": "stress",
+            "color": "#D5782F",
+            "status": "locked"
+        },
+        {
+            "title": "Going to sleep",
+            "category": "sleep",
+            "color": "#DDD6AC",
+            "status": "unlocked"
+        },
+        {
+            "title": "New habits",
+            "category": "transition",
+            "color": "#44433E",
+            "status": "locked"
+        }
+    ]
+}
